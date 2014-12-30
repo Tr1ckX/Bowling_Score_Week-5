@@ -12,3 +12,5 @@ Bownling Score Calculator
 Create a program to keep track bowling game score.
   
   SOON!
+  
+You can find this week's projects [here](https://github.com/Tr1ckX/RPS_Javascript_Week-5) and [here](https://github.com/Tr1ckX/rpsls_jquery_Week-5)
